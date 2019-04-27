@@ -1,0 +1,10 @@
+D:\workspace\visualStudio\yazlab3\yazlab3\bin\Debug\yazlab3.exe.config
+D:\workspace\visualStudio\yazlab3\yazlab3\bin\Debug\yazlab3.exe
+D:\workspace\visualStudio\yazlab3\yazlab3\bin\Debug\yazlab3.pdb
+D:\workspace\visualStudio\yazlab3\yazlab3\obj\Debug\yazlab3.csprojAssemblyReference.cache
+D:\workspace\visualStudio\yazlab3\yazlab3\obj\Debug\yazlab3.Form1.resources
+D:\workspace\visualStudio\yazlab3\yazlab3\obj\Debug\yazlab3.Properties.Resources.resources
+D:\workspace\visualStudio\yazlab3\yazlab3\obj\Debug\yazlab3.csproj.GenerateResource.cache
+D:\workspace\visualStudio\yazlab3\yazlab3\obj\Debug\yazlab3.csproj.CoreCompileInputs.cache
+D:\workspace\visualStudio\yazlab3\yazlab3\obj\Debug\yazlab3.exe
+D:\workspace\visualStudio\yazlab3\yazlab3\obj\Debug\yazlab3.pdb
